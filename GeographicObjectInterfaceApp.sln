@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeographicObjectInterfaceApp", "GeographicObjectInterfaceApp.csproj", "{FBC09EBF-83C7-4288-979A-F92B7DB0B44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC09EBF-83C7-4288-979A-F92B7DB0B44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC09EBF-83C7-4288-979A-F92B7DB0B44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC09EBF-83C7-4288-979A-F92B7DB0B44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC09EBF-83C7-4288-979A-F92B7DB0B44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
